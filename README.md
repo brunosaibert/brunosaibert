@@ -2,7 +2,7 @@
 Front-end dev with focus on Web and Mobile development</h1>
 
 <div align="center">
-<img width="200px" height = "200px" src="https://avatars.githubusercontent.com/u/40339324?v=4" alt="cover" />
+<img width="200px" height = "200px" src="https://avatars.githubusercontent.com/u/40339324?v=4" alt="cover" style="border-radius: 50%" />
 </div>
 
 <div slyle='text-align: center' align='center'>
