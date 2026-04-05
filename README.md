@@ -1,5 +1,5 @@
 <h1 align='center'> Hello, I'm Bruno Saibert 👨‍🚀 <br />
-Front-end dev with focus on Web and Mobile development</h1>
+Front-end Engineer with focus on Web and Mobile development</h1>
 
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/40339324?v=4" alt="cover" style="width: 200px; height: 200px; background: blue; border-radius: 50%;" />
@@ -23,10 +23,4 @@ Currently my stack is:
 - 👨‍💻 I currently work as a front-end and mobile developer in a mobile squad in the financial sector.
 - 👨‍🎓 I am Computer Technician (2014) and Technology in Multimedia Production (2017).
 - 🙋‍♂️ Talk to me about Front-end Development, Design and Animations. Also about cinema, tv shows, food and cats 🐱‍💻
-
-## Some status
-
-![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=BrunoSaibert&show_icons=true&theme=dracula)
-
-![Bruno's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSaibert&layout=compact&theme=dracula&hide=java,objective-c)
-
+  
